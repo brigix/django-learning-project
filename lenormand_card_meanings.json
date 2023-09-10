@@ -1,0 +1,2378 @@
+{
+    "Rider": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Clover": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Ship": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "House": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Tree": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Clouds": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Snake": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Coffin": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Bouquet": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Scythe": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Whip": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Birds": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Child": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Fox": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Bear": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Stars": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Stork": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Dog": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Tower": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Garden": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Mountain": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Crossroad": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Mice": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Heart": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Ring": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Book": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Letter": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Man": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Woman": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Lily": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Sun": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Moon": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Key": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Fish": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Anchor": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    },
+    "Cross": {
+        "general": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "keywords": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "nouns": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "verbs": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "adjectives": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "health": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "career": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        },
+        "love": {
+            "error": {
+                "message": "The model: `davinci-codex` does not exist",
+                "type": "invalid_request_error",
+                "param": null,
+                "code": "model_not_found"
+            }
+        }
+    }
+}

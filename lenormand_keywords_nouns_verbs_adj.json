@@ -1,0 +1,110 @@
+{
+    "Rider": {
+        "keyword": "Nouns: Rider, Journey, Destination, Vehicle\nAdjectives: Fast, Exciting, Unexpected, Adventurous\nVerbs: Traveling, Exploring, Moving, Arriving"
+    },
+    "Clover": {
+        "keyword": "Nouns: Luck, Opportunity, Choice, Fortune\nAdjectives: Fortunate, Propitious, Optimistic, Auspicious\nVerbs: Invest, Pursue, Gamble, Optimize"
+    },
+    "Ship": {
+        "keyword": "Nouns: Ship, Journey, Adventure, Voyage\nAdjectives: Adventurous, Courageous, Daring, Ambitious\nVerbs: Travel, Explore, Sail, Navigate"
+    },
+    "House": {
+        "keyword": "Nouns: Home, Family, Security, Investment\nAdjectives: Stable, Structured, Permanent, Secure\nVerbs: Investing, Building, Protecting, Strengthening"
+    },
+    "Tree": {
+        "keyword": "Nouns: Nature, Growth, Life, Stability\nAdjectives: Abundant, Nurturing, Strong, Enduring\nVerbs: Cultivate, Nourish, Strengthen, Sustain"
+    },
+    "Clouds": {
+        "keyword": "Nouns: Sky, Weather, Rain, Fog\nAdjectives: Gloomy, Overcast, Dark, Gray\nVerbs: Obscure, Block, Cover, Dim"
+    },
+    "Snake": {
+        "keyword": "Nouns: Fear, Temptation, Risk, Danger\nAdjectives: Sly, Cunning, Deceptive, Intriguing\nVerbs: Manipulate, Entice, Charm, Intimidate"
+    },
+    "Coffin": {
+        "keyword": "Nouns: Death, Loss, End, Finale\nAdjectives: Final, Permanent, Unavoidable, Inevitable\nVerbs: End, Terminate, Cease, Conclude"
+    },
+    "Bouquet": {
+        "keyword": "Nouns: Bouquet, Flowers, Love, Gift\nAdjectives: Beautiful, Thoughtful, Appreciated, Generous\nVerbs: Give, Receive, Celebrate, Express"
+    },
+    "Scythe": {
+        "keyword": "Nouns: Decision, Change, Harvest, End\nAdjectives: Swift, Final, Cutting, Severe\nVerbs: Reap, Sever, Prune, Discontinue"
+    },
+    "Whip": {
+        "keyword": "Nouns: Whip, Discipline, Punishment, Control \nAdjectives: Punitive, Swift, Immediate, Effective \nVerbs: Enforce, Impose, Discipline, Reinforce"
+    },
+    "Birds": {
+        "keyword": "Nouns: Birds, Air, Flight, Nature \nAdjectives: Social, Communicative, Connected, Free \nVerbs: Networking, Sharing, Connecting, Communicating"
+    },
+    "Child": {
+        "keyword": "Nouns: Child, Youth, Innocence, Creativity\nAdjectives: Playful, Energetic, Inquisitive, Imaginative\nVerbs: Discovering, Exploring, Learning, Growing"
+    },
+    "Fox": {
+        "keyword": "Nouns: Fox, Trickery, Deception, Cunning\nAdjectives: Sly, Wily, Deceptive, Mischievous\nVerbs: Outwit, Manipulate, Outsmart, Deceive"
+    },
+    "Bear": {
+        "keyword": "Nouns: Security, Strength, Comfort, Support\nAdjectives: Protective, Stable, Reliable, Solid\nVerbs: Protecting, Supporting, Strengthening, Comforting"
+    },
+    "Stars": {
+        "keyword": "Nouns: Success, Dreams, Ambition, Luck\nAdjectives: Shining, Bright, Achieving, Illuminated\nVerbs: Aspire, Reach, Accomplish, Excel"
+    },
+    "Stork": {
+        "keyword": "Nouns: Stork, Migration, Change, Journey\nAdjectives: Adaptable, Moving, Progressive, Transformative\nVerbs: Transitioning, Developing, Evolving, Reaching"
+    },
+    "Dog": {
+        "keyword": "Nouns: Pet, Loyalty, Companion, Friend\nAdjectives: Faithful, Obedient, Protective, Supportive\nVerbs: Guard, Follow, Comfort, Encourage"
+    },
+    "Tower": {
+        "keyword": "Nouns: Tower, Structure, Building, Height\nAdjectives: Solid, Stable, Impenetrable, Upright\nVerbs: Construct, Rebuild, Reinforce, Strengthen"
+    },
+    "Garden": {
+        "keyword": "Nouns: Garden, Nature, Growth, Abundance\nAdjectives: Nurturing, Abundant, Fertile, Renewing\nVerbs: Cultivate, Nurture, Grow, Abound"
+    },
+    "Mountain": {
+        "keyword": "Nouns: Obstacle, Challenge, Climb, Peak\nAdjectives: Difficult, Uphill, Rocky, Steep\nVerbs: Overcome, Conquer, Reach, Ascend"
+    },
+    "Crossroad": {
+        "keyword": "Nouns: Choice, Opportunity, Path, Direction\nAdjectives: Decisive, Dilemma, Difficult, Unpredictable\nVerbs: Decide, Choose, Diverge, Ponder"
+    },
+    "Mice": {
+        "keyword": "Nouns: Mice, Anxiety, Fear, Worry\nAdjectives: Unsettling, Frightening, Troubling, Unnerving\nVerbs: Worrying, Fearing, Anxiously, Dreading"
+    },
+    "Heart": {
+        "keyword": "Nouns: Love, Relationship, Emotion, Connection\nAdjectives: Loyal, Caring, Passionate, Devoted\nVerbs: Connect, Cherish, Nurture, Appreciate"
+    },
+    "Ring": {
+        "keyword": "Nouns: Ring, Commitment, Marriage, Love\nAdjectives: Binding, Enduring, Loyal, Faithful\nVerbs: Unite, Pledge, Bond, Vow"
+    },
+    "Book": {
+        "keyword": "Nouns: Knowledge, Information, Wisdom, Insight\nAdjectives: Educational, Enlightening, Inspiring, Stimulating\nVerbs: Learn, Discover, Explore, Uncover"
+    },
+    "Letter": {
+        "keyword": "Nouns: Message, Postcard, Letter, Correspondence\nAdjectives: Written, Personal, Private, Intimate\nVerbs: Communicate, Convey, Express, Transmit"
+    },
+    "Man": {
+        "keyword": "Nouns: Person, Man, Partner, Relationship\nAdjectives: Intelligent, Ambitious, Charismatic, Confident\nVerbs: Networking, Negotiating, Collaborating, Advocating"
+    },
+    "Woman": {
+        "keyword": "Nouns: Woman, Femininity, Strength, Beauty\nAdjectives: Creative, Intelligent, Independent, Resourceful\nVerbs: Nurture, Empower, Lead, Inspire"
+    },
+    "Lily": {
+        "keyword": "Nouns: Love, Beauty, Abundance, Relationship\nAdjectives: Harmonious, Joyful, Generous, Creative\nVerbs: Nurture, Celebrate, Appreciate, Connect"
+    },
+    "Sun": {
+        "keyword": "Nouns: Sun, Life, Success, Happiness\nAdjectives: Bright, Radiant, Joyful, Optimistic\nVerbs: Shine, Illuminate, Celebrate, Achieve"
+    },
+    "Moon": {
+        "keyword": "Nouns: Dreams, Intuition, Imagination, Mystery \nAdjectives: Intuitive, Mysterious, Creative, Dreamy \nVerbs: Imagine, Dream, Intuit, Uncover"
+    },
+    "Key": {
+        "keyword": "Nouns: Cards, Symbols, Meanings, Interpretations\nAdjectives: Intuitive, Symbolic, Insightful, Revealing\nVerbs: Read, Interpret, Analyze, Forecast"
+    },
+    "Fish": {
+        "keyword": "Nouns: Fish, Money, Abundance, Investment\nAdjectives: Prosperous, Wealthy, Generous, Abundant\nVerbs: Invest, Accumulate, Reap, Grow"
+    },
+    "Anchor": {
+        "keyword": "Nouns: Security, Stability, Support, Strength\nAdjectives: Reliable, Grounded, Dependable, Unwavering\nVerbs: Anchor, Ground, Secure, Support"
+    },
+    "Cross": {
+        "keyword": "Nouns: Crossroads, Decision, Opportunity, Challenge\nAdjectives: Difficult, Unavoidable, Momentous, Unpredictable\nVerbs: Choose, Decide, Ponder, Weigh"
+    }
+}

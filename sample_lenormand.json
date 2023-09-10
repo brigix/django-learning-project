@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-7VOeNK7G2TerpZa1aTwCOAsESgWqG",
+    "object": "text_completion",
+    "created": 1687717279,
+    "model": "text-davinci-003",
+    "choices": [
+        {
+            "text": "\n\nLenormand cards are a type of",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7,
+        "completion_tokens": 10,
+        "total_tokens": 17
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "Rider": {
+        "keyword": "1. Journey\n2. Message\n3. Movement\n4. Travel\n5. Communication\n6. Progress\n7. Change\n8. News\n9. Adventure\n10. Exploration"
+    },
+    "Clover": {
+        "keyword": "1. Luck\n2. Fortune\n3. Success\n4. Blessing\n5. Abundance\n6. Prosperity\n7. Wealth\n8. Good Fortune\n9. Opportunity\n10. Favorable Outcome"
+    },
+    "Ship": {
+        "keyword": "1. Voyage\n2. Transportation\n3. Navigation\n4. Sailing\n5. Cargo\n6. Freight\n7. Trade\n8. Journey\n9. Maritime\n10. Cruise"
+    },
+    "House": {
+        "keyword": "1. Home\n2. Residence\n3. Abode\n4. Domicile\n5. Dwelling\n6. Mansion\n7. Cottage\n8. Property\n9. Structure\n10. Building"
+    },
+    "Tree": {
+        "keyword": "1. Growth\n2. Nature\n3. Stability\n4. Endurance\n5. Roots\n6. Fertility\n7. Abundance\n8. Ancestry\n9. Wisdom\n10. Prosperity"
+    },
+    "Clouds": {
+        "keyword": "1. Mystery\n2. Uncertainty\n3. Fog\n4. Haze\n5. Obscurity\n6. Overcast\n7. Rain\n8. Storm\n9. Vision\n10. Change"
+    },
+    "Snake": {
+        "keyword": "1. Slither\n2. Cunning\n3. Transformation\n4. Intrigue\n5. Deception\n6. Subterfuge\n7. Mystery\n8. Wisdom\n9. Intuition\n10. Evolution"
+    },
+    "Coffin": {
+        "keyword": "1. Death\n2. Endings\n3. Loss\n4. Finality\n5. Transition\n6. Transformation\n7. Closure\n8. Burial\n9. Mortality\n10. Farewell"
+    },
+    "Bouquet": {
+        "keyword": "1. Floral\n2. Bouquet\n3. Love\n4. Romance\n5. Marriage\n6. Celebration\n7. Joy\n8. Harmony\n9. Fertility\n10. Abundance"
+    },
+    "Scythe": {
+        "keyword": "1. Scythe\n2. Harvest\n3. Cut\n4. Reap\n5. Prune\n6. Mow\n7. Trim\n8. Slice\n9. Sever\n10. Reaping"
+    },
+    "Whip": {
+        "keyword": "1. Discipline\n2. Punishment\n3. Control\n4. Movement\n5. Action\n6. Urgency\n7. Change\n8. Direction\n9. Speed\n10. Progress"
+    },
+    "Birds": {
+        "keyword": "1. Flight\n2. Communication\n3. Freedom\n4. Perspective\n5. Migration\n6. Harmony\n7. Renewal\n8. Guidance\n9. Connection\n10. Wisdom"
+    },
+    "Child": {
+        "keyword": "1. Innocence\n2. Youth\n3. Creativity\n4. Curiosity\n5. Playfulness\n6. Imagination\n7. Growth\n8. Renewal\n9. Joy\n10. Beginnings"
+    },
+    "Fox": {
+        "keyword": "1. Cunning\n2. Deception\n3. Trickery\n4. Mischief\n5. Intelligence\n6. Resourcefulness\n7. Adaptability\n8. Cleverness\n9. Instinct\n10. Discretion"
+    },
+    "Bear": {
+        "keyword": "1. Strength\n2. Protection\n3. Stability\n4. Patience\n5. Resourcefulness\n6. Self-Reliance\n7. Resilience\n8. Nurturing\n9. Support\n10. Security"
+    },
+    "Stars": {
+        "keyword": "1. Fortune\n2. Destiny\n3. Illumination\n4. Hope\n5. Success\n6. Clarity\n7. Guidance\n8. Vision\n9. Luck\n10. Abundance"
+    },
+    "Stork": {
+        "keyword": "1. Migration\n2. New Beginnings\n3. Progress\n4. Fertility\n5. Change\n6. Growth\n7. Transformation\n8. Renewal\n9. Delivery\n10. Evolution"
+    },
+    "Dog": {
+        "keyword": "1. Loyalty\n2. Fidelity\n3. Protection\n4. Friendship\n5. Faithfulness\n6. Obedience\n7. Companionship\n8. Devotion\n9. Guarding\n10. Guidance"
+    },
+    "Tower": {
+        "keyword": "1. Structure\n2. Obstacle\n3. Isolation\n4. Reversal\n5. Unexpected\n6. Change\n7. Authority\n8. Disruption\n9. Conflict\n10. Warning"
+    },
+    "Garden": {
+        "keyword": "1. Nature\n2. Growth\n3. Abundance\n4. Renewal\n5. Fertility\n6. Harmony\n7. Reflection\n8. Tranquility\n9. Serenity\n10. Peace"
+    },
+    "Mountain": {
+        "keyword": "1. Climb\n2. Summit\n3. Obstacle\n4. Challenge\n5. Peak\n6. Ascent\n7. Descent\n8. Slope\n9. Rocks\n10. Path"
+    },
+    "Crossroad": {
+        "keyword": "1. Choice\n2. Intersection\n3. Decisions\n4. Paths\n5. Alternatives\n6. Dilemma\n7. Direction\n8. Opportunity\n9. Change\n10. Confusion"
+    },
+    "Mice": {
+        "keyword": "1. Scurrying\n2. Mischief\n3. Restlessness\n4. Anxiety\n5. Stagnation\n6. Squeaking\n7. Smallness\n8. Furtiveness\n9. Nervousness\n10. Resourcefulness"
+    },
+    "Heart": {
+        "keyword": "1. Love\n2. Affection\n3. Compassion\n4. Devotion\n5. Intimacy\n6. Romance\n7. Tenderness\n8. Unity\n9. Fidelity\n10. Joy"
+    },
+    "Ring": {
+        "keyword": "1. Fortune\n2. Commitment\n3. Bond\n4. Agreement\n5. Marriage\n6. Contract\n7. Engagement\n8. Circumstance\n9. Destiny\n10. Connectedness"
+    },
+    "Book": {
+        "keyword": "1. Lenormand\n2. Card\n3. Book\n4. Fortune\n5. Divination\n6. Oracle\n7. Symbols\n8. Interpretation\n9. Guidance\n10. Wisdom"
+    },
+    "Letter": {
+        "keyword": "1. Communication\n2. Writing\n3. Correspondence\n4. Message\n5. Post\n6. Sign\n7. News\n8. Document\n9. Envelope\n10. Delivery"
+    },
+    "Man": {
+        "keyword": "1. Male\n2. Gentleman\n3. Masculine\n4. Strength\n5. Action\n6. Leadership\n7. Courage\n8. Success\n9. Authority\n10. Intelligence"
+    },
+    "Woman": {
+        "keyword": "1. Femininity\n2. Intuition\n3. Nurturing\n4. Compassion\n5. Wisdom\n6. Creativity\n7. Empathy\n8. Love\n9. Beauty\n10. Strength"
+    },
+    "Lily": {
+        "keyword": "1. Beauty\n2. Refinement\n3. Purity\n4. Harmony\n5. Elegance\n6. Innocence\n7. Sensitivity\n8. Femininity\n9. Grace\n10. Renewal"
+    },
+    "Sun": {
+        "keyword": "1. Brightness\n2. Success\n3. Joy\n4. Enlightenment\n5. Clarity\n6. Abundance\n7. Optimism\n8. Fulfillment\n9. Vitality\n10. Illumination"
+    },
+    "Moon": {
+        "keyword": "1. Intuition \n2. Psychic \n3. Mystery \n4. Dreams \n5. Illusion \n6. Subconscious \n7. Imagination \n8. Shadow \n9. Inner Voice \n10. Transformation"
+    },
+    "Key": {
+        "keyword": "words\n\n1. Fortune-Telling \n2. Cartomancy \n3. Divination \n4. Symbolism \n5. Mysticism \n6. Clairvoyance \n7. Predictions \n8. Guidance \n9. Interpretation \n10. Wisdom"
+    },
+    "Fish": {
+        "keyword": "1. Aquatic\n2. Wealth\n3. Abundance\n4. Prosperity\n5. Finances\n6. Investment\n7. Opportunity\n8. Success\n9. Security\n10. Resourcefulness"
+    },
+    "Anchor": {
+        "keyword": "1. Stability\n2. Security\n3. Support\n4. Home\n5. Foundation\n6. Constant\n7. Reliable\n8. Resilience\n9. Immovable\n10. Endurance"
+    },
+    "Cross": {
+        "keyword": "1. Fate\n2. Destiny\n3. Change\n4. Challenge\n5. Decision\n6. Struggle\n7. Obstacle\n8. Transformation\n9. Opportunity\n10. Conflict"
+    }
+}
